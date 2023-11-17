@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5b6dc9&font=Exo+2&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+Name+is+Ricardo+Bento;I'm+17+years+old+🧑🏻;I+am+from+Portugal,+Setúbal;Im+a+student+and+I´m+in+the+course+of+GPSI;And+be+Welcome!+👋🏻)](https://git.io/typing-svg)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=350&size=25&pause=1000&center=true&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="[https://readme-typing-svg.demolab.com?font=Exo+2&weight=350&size=25&pause=1000&center=true&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly](https://readme-typing-svg.herokuapp.com/?color=5b6dc9&font=Exo+2&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+Name+is+Ricardo+Bento;I'm+17+years+old+🧑🏻;I+am+from+Portugal,+Setúbal;Im+a+student+and+I´m+in+the+course+of+GPSI;And+be+Welcome!+👋🏻)" alt="Typing SVG" /></a>
 <hr>
 
 
