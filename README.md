@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2d455e&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=92a1b0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+João+Coelho;I'm+17+years+old;I+am+from+Portugal,+Lisbon;Im+a+student+and+I´m+in+the+course+of+GPSI;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=92a1b0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ricardo+Bento;I'm+17+years+old;I+am+from+Portugal,+Setúbal;Im+a+student+and+I´m+in+the+course+of+GPSI;Be+Welcome!+[:%29](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif))](https://git.io/typing-svg)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ricardo Bento
+
 =====================================================================================================================================
 ### Skills
 
