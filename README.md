@@ -15,4 +15,4 @@
 <a href="http://www.github.com/dsfasf"><img src="https://github-readme-stats.vercel.app/api?username=dsfasf&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=0891b2&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="dsfasf's GitHub stats" /></a>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2d455e&height=120&section=footer"/>
