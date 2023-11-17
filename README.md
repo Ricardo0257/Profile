@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5b6dc9&font=Exo+2&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+Name+is+Ricardo+Bento;I'm+17+years+old+🧑🏻;I+am+from+Portugal,+Setúbal;Im+a+student+and+I´m+in+the+course+of+GPSI;And+be+Welcome!+👋🏻)](https://git.io/typing-svg)
 
-# Skills/Learning
+# Programming languages ​​I'm learning
 
 <p align="left">
 <code><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a></code>
