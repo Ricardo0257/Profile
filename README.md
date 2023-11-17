@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2d455e&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=350&size=25&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello!+My+Name+is+Ricardo+Bento;I'm+17+years+old+🧑🏻;I+am+from+Portugal,+Setúbal;Im+a+student+and+I´m+in+the+course+of+GPSI;And+be+Welcome!+👋🏻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=25&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello!+My+Name+is+Ricardo+Bento;I'm+17+years+old+🧑🏻;I+am+from+Portugal,+Setúbal;Im+a+student+and+I´m+in+the+course+of+GPSI;And+be+Welcome!+👋🏻)](https://git.io/typing-svg)
 
 
 =====================================================================================================================================
