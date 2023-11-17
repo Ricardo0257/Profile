@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2d455e&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=92a1b0&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+Name+is+Ricardo+Bento;I'm+17+years+old+🧑🏻;I+am+from+Portugal+%🇵🇹,+Setúbal;Im+a+student+and+I´m+in+the+course+of+GPSI;And+be+Welcome!+👋🏻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=92a1b0&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+Name+is+Ricardo+Bento;I'm+17+years+old+🧑🏻;I+am+from+Portugal+🇵🇹,+Setúbal;Im+a+student+and+I´m+in+the+course+of+GPSI;And+be+Welcome!+👋🏻)](https://git.io/typing-svg)
 
 
 =====================================================================================================================================
@@ -13,6 +13,6 @@
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/dsfasf"><img src="https://github-readme-stats.vercel.app/api?username=dsfasf&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=0891b2&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="dsfasf's GitHub stats" /></a>
-
+![](https://komarev.com/ghpvc/?username=Joca&style=for-the-badge)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2d455e&height=120&section=footer"/>
